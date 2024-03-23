@@ -6,3 +6,8 @@
 $ git push origin main
 Pushed the cahnges made in local system to the GitHub remote space
 ```
+### Tasks Done after joining Academy-
+- [x] Create Profile README
+- [x] Use codespaces
+- [x] Build a Portfolio
+- [ ] Learn About Markdowns
